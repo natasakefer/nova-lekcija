@@ -1,0 +1,26 @@
+[
+  {
+    "name": "petar",
+    "email": "petar@gmail.com",
+    "password": "12345",
+    "profilePicture": "slike/zirafa.jpg"
+  },
+  {
+    "name": "marko",
+    "email": "marko@gmail.com",
+    "password": "12345",
+    "profilePicture": "slike/majmun.jpg"
+  },
+  {
+    "name": "uros",
+    "email": "uros@gmail.com",
+    "password": "12345",
+    "profilePicture": "slike/panda.jpg"
+  },
+  {
+    "name": "jovana",
+    "email": "jovana@gmail.com",
+    "password": "12345",
+    "profilePicture": "slike/lisica.jpg"
+  }
+]
